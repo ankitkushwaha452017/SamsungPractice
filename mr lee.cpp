@@ -37,6 +37,12 @@ Example of Input
 0 4 0
 
 Example of Output
+find the path to visted all path  in minimun cost .
+ start to 0 ->  (1 to n-1 ) ->and return 0
+ 0-> 2,3,4,1 ->0
+ 0-> 4,2,1,3,->0
+ 0-> 3,2,4,1,->0
+ like that
 
 30
 18
